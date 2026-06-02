@@ -101,6 +101,11 @@ if ($startupTasks.Count -gt 0) {
     # Wait for all background jobs to finish
     $startupTasks | Wait-Job | Receive-Job
 
+    # Trigger Logic App webhook after successful shutdown
+    Invoke-RestMethod `
+        -Method POST `
+        -Uri "YOUR_LOGIC_APP_WEBHOOK_URL"
+
 
     Write-Output ""
     Write-Output "All virtual machines started successfully."
