@@ -1,11 +1,11 @@
-````md
-# Azure VM Start/Stop Automation
+
+# ☁️Azure VM Start/Stop Automation
 
 Automated Azure VM start and shutdown solution using PowerShell Runbooks, Azure Automation Account, and Azure Logic Apps.
 
 ---
 
-## Features
+## ⭐Features
 
 - Automatically starts/stops Azure VMs
 - Uses Azure VM Tags for filtering
@@ -16,7 +16,7 @@ Automated Azure VM start and shutdown solution using PowerShell Runbooks, Azure 
 
 ---
 
-## Technologies Used
+## 🛠️Technologies Used
 
 - PowerShell
 - Azure Automation Account
@@ -26,7 +26,7 @@ Automated Azure VM start and shutdown solution using PowerShell Runbooks, Azure 
 
 ---
 
-## Project Structure
+## 📂Project Structure
 
 ```text
 Azure-Automation/
@@ -34,7 +34,7 @@ Azure-Automation/
 ├── AutoShutdownVM.ps1
 ├── AutoStartVM.ps1
 └── README.md
-````
+```
 
 ---
 
@@ -48,7 +48,7 @@ AutoShutdown = true
 
 ---
 
-## Required PowerShell Modules
+## 💡Required PowerShell Modules
 
 ```powershell
 Az.Accounts
@@ -58,7 +58,7 @@ Az.Resources
 
 ---
 
-## Setup
+## ⚙️Setup
 
 1. Create an Azure Automation Account
 2. Import required Az modules
@@ -98,7 +98,7 @@ All running virtual machines have been stopped successfully.
 
 ---
 
-## Future Improvements
+## 💭Future Improvements
 
 * Teams/Slack notifications
 * Logging and monitoring
@@ -107,13 +107,11 @@ All running virtual machines have been stopped successfully.
 
 ---
 
-## Author
+## 👦Author
 
 Deekshat Manhotra
 
 O365 Engineer | Aspiring Azure Cloud Architect |
 PowerShell | Azure | Automation
 
-```
-```
 
