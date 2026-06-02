@@ -27,6 +27,8 @@
 #
 #==============================================================================
 
+# Authenticate using Managed Identity
+Connect-AzAccount -Identity
 
 # Fetch all virtual machines having the required tag
 $shutdownVMList = Get-AzResource `
