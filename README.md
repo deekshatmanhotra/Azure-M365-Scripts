@@ -16,7 +16,7 @@ O365 Engineer passionate about automation and cloud architecture. Currently on a
 ### Microsoft Graph API
 - **[Bulk User Invitation](./MicrosoftGraph/BulkUserInvitation/)** - Automate guest user invitations using MS Graph API
 ### Azure VM
-- **[Auto Start Stop VM](./azure-automation-scripts/Azure-automation/)** - Automate Start and Stop of Azure Vm using Runbook
+- **[Auto Start Stop VM](./azure-automation-scripts/Azure-Automation/)** - Automate Start and Stop of Azure Vm using Runbook
 
 ## 🛠️ Tech Stack
 - Microsoft Graph API
