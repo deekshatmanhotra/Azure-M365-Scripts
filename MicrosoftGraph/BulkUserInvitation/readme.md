@@ -53,7 +53,7 @@ Jane Doe,jane.doe@vendor.com,Mike Merchant,United Kingdom,Business Analyst,Vendo
 ## Author
 
 **Deekshat Manhotra**  
-O365 Engineer | Azure Enthusiast
+Cloud Engineer | Azure Enthusiast
 
 ## License
 
