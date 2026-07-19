@@ -9,7 +9,7 @@
 
 O365 Engineer passionate about automation and cloud architecture. Currently on a journey from support to Cloud/Security Architect.
 
-**Certifications:** AZ-900 ✅ | AZ-104 (In Progress) 📚
+**Certifications:** AZ-104 | AZ-900  📚
 
 ## 📂 Projects
 
