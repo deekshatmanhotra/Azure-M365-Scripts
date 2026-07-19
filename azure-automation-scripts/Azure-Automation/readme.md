@@ -111,7 +111,7 @@ All running virtual machines have been stopped successfully.
 
 Deekshat Manhotra
 
-O365 Engineer | Aspiring Azure Cloud Architect |
+AZ-104 Certified | Aspiring Azure Cloud Architect |
 PowerShell | Azure | Automation
 
 
