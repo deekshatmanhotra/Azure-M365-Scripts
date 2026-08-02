@@ -18,7 +18,7 @@ O365 Engineer passionate about automation and cloud architecture. Currently on a
 ### Azure VM
 - **[Auto Start Stop VM](./azure-automation-scripts/Azure-Automation/)** - Automate Start and Stop of Azure Vm using Runbook
 ### Admin-Toolkit
-- **[Entra ID Admin](./M365-Toolkit)** - Entra ID Admin Toolkit
+- **[Entra ID Admin](./EntraID-Toolkit)** - Entra ID Admin Toolkit
 
 ## 🛠️ Tech Stack
 - Microsoft Azure
