@@ -17,12 +17,16 @@ O365 Engineer passionate about automation and cloud architecture. Currently on a
 - **[Bulk User Invitation](./MicrosoftGraph/BulkUserInvitation/)** - Automate guest user invitations using MS Graph API
 ### Azure VM
 - **[Auto Start Stop VM](./azure-automation-scripts/Azure-Automation/)** - Automate Start and Stop of Azure Vm using Runbook
+### Admin-Toolkit
+- **[Entra ID Admin](./Azure-M365-Scripts/)** - Entra ID Admin Toolkit
 
 ## 🛠️ Tech Stack
+- Microsoft Azure
 - Microsoft Graph API
 - Exchange Online PowerShell
 - Azure AD / Entra ID
 - PowerShell 7+
+- Python
 
 ## 📫 Connect With Me
 - Twitter: [@deekshat37](https://x.com/deekshat37)
